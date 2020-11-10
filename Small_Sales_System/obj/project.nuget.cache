@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3r2JZ/zT2iRrtGZqddMRUxqeKEV+rDFRTwcsn/8n5CoqGY/Y+ie+AmiuNPBrmv0GQpLPTAydGjtMZafpMkBaw==",
+  "dgSpecHash": "Aq5Y/JJohMMWgGaxCPAoOD/oD1nsEUH9iq+2UE6L0cvqdbx+UsB//xra2j+7gBgxFfCTwqQePjyhr9XZHKdfaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\Small_Sales_System.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\Small_Sales_System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnet.webpages.data\\3.2.7\\microsoft.aspnet.webpages.data.3.2.7.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnet.webpages.webdata\\3.2.7\\microsoft.aspnet.webpages.webdata.3.2.7.nupkg.sha512",

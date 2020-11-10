@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\Small_Sales_System.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\Small_Sales_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\Small_Sales_System.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\Small_Sales_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\Small_Sales_System.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\Small_Sales_System.csproj",
         "projectName": "Small_Sales_System",
-        "projectPath": "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\Small_Sales_System.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\Small_Sales_System.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\source\\repos\\Small_Sales_System\\Small_Sales_System\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Escritorio\\SmallSales.System\\SmallSales.System\\Small_Sales_System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
